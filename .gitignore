@@ -1,0 +1,6 @@
+/rally
+*.db
+*.db-wal
+*.db-shm
+.env*
+.DS_Store
